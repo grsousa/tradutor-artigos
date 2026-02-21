@@ -1,4 +1,4 @@
-# 📖 Article Translator
+# 📖 Tradutor de Artigos
 
 Traduza artigos da web para qualquer idioma usando IA. Extrai o conteúdo de URLs e traduz com Azure OpenAI (GPT-4o-mini ou similar), preservando formatação em Markdown.
 
